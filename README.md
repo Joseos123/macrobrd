@@ -1,2 +1,2 @@
 # macrobrd
- pi pico macroboard code (not original code)
+stolen/modified from [Here](https://blog.jmdawson.co.uk/raspberry-pi-pico-macro-pad/)
