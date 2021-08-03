@@ -35,7 +35,7 @@ MEDIA = 1
 KEY = 2
  
 keymap = {
-    (0): (KEY, [Keycode.ONE]),
+    (0): (KEY, [Keycode.ESCAPE]),
     (1): (KEY, [Keycode.W]),
     (2): (KEY, [Keycode.ENTER]),
     (3): (KEY, [Keycode.A),
